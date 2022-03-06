@@ -5,8 +5,8 @@ A small python script that turns your Novation Launchpad into a 4K rythm game co
 # Installation
 
 ```
-git clone https://github.com/alexfeed1990/LaunchToRythm.git
-cd LaunchToRythm
+git clone https://github.com/alexfeed1990/LaunchToRhythm.git
+cd LaunchToRhythm
 pip -r requirements.txt
 python LaunchToRhythm.py
 ```
