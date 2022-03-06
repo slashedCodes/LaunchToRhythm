@@ -1,0 +1,24 @@
+{
+    "effect1enabled": true,
+    "effect2enabled": true,
+    "effect1speed": 0.03,
+    "effect2speed": 0.06,
+    "effect1color": 3,
+    "effect2colors": [
+        29,
+        17
+    ],
+    "keys": [
+        "a",
+        "s",
+        "k",
+        "l"
+    ],
+    "buttons": [
+        [0, 8],
+        [1, 8],
+        [6, 8],
+        [7, 8]
+    ],
+    "pressColor": 38
+}
